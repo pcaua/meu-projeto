@@ -1,0 +1,37 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.message{
+    border: 1px solid #909090;
+}
+.message-header{
+    border-bottom: 1px solid #909090;
+}
+.p-message-body{
+    font-size: 20px;
+    transition: ease-in-out 1s all;
+}
+.p-message-body:hover{
+    font-style: italic;
+    color: rgb(89, 0, 255);
+}
+.border{
+    border-top: 1px solid #909090;
+}
+.border1{
+    border-top: 1px solid #909090;
+}
+.title{
+    padding-bottom: 10px;
+}
+.links a{
+    margin-bottom: 15px;
+}
+.links p{
+    padding: 15px 0 0 0;
+}
+.github{
+    font-size: 18px;
+    color: rgb(163, 0, 168);
+}
+

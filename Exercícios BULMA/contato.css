@@ -1,0 +1,12 @@
+.message{
+    border: 1px solid #909090;
+}
+.message-header{
+    border-bottom: 1px solid #909090;
+}
+.links a{
+    margin-bottom: 15px;
+}
+.links p{
+    padding: 15px 0 0 0;
+}

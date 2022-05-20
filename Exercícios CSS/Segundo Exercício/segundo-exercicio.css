@@ -1,0 +1,41 @@
+.post-container{
+    width: 1280px;
+    margin: 0 auto;
+    border: 1px solid #000000;
+    transition: 1s ease;
+
+}
+
+.post-container:hover{
+    width: 1820px;
+    font-size: 18px;
+}
+
+.post{
+    background-color: #fffafa;
+    padding: 20px 40px;
+    border-bottom: 1px solid #000000;
+}
+
+.post:last-child{
+    border-bottom: 0px;
+}
+
+.date{
+    color: #ae00f3;
+    font-family: 'Roboto';
+    padding: 10px 0px;
+}
+
+.post-content{
+    font-family: 'Open Sans';
+}
+
+.post-content:hover{
+    transition: 1s;
+    color: rgb(248, 170, 0);
+}
+
+h1{
+    font-family: 'Montserrat';
+}
